@@ -133,7 +133,7 @@ else:
 
 
 
-### VISUALIZATION:
+## VISUALIZATION:
 ```python
 import matplotlib.pyplot as plt
 
